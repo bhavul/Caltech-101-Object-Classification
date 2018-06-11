@@ -1,0 +1,8 @@
+click   # cli tool
+keras
+tensorflow
+opencv
+requests
+numpy
+tarfile
+scikit-learn
