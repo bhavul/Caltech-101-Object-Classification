@@ -109,3 +109,6 @@ dataset.tgz
 
 # ignore weights files generates as can't push them to git
 *.h5
+
+.DS_Store
+.idea/
